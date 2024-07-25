@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Reverse engineering software**
 
-- 🪪 my resume [https://cvbuilder.me/Resume/fa/e1f2591c-ae8e-4861-937c-19fae2d15a38?template=template22](https://cvbuilder.me/Resume/fa/e1f2591c-ae8e-4861-937c-19fae2d15a38?template=template22)
-
 - 📝 I regularly write articles on [https://bitnoacademy.ir/author/rahman-h-z/](https://bitnoacademy.ir/author/rahman-h-z/)
 
 <h3 align="left">Connect with me:</h3>
