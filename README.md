@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahman Hosseinzadeh</h1>
-<h3 align="center">A creative security expert from Iran</h3>
+<h3 align="center">A Pentester from Iran🥷🏻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahmansec&label=Profile%20views&color=0e75b6&style=flat" alt="rahmansec" /> </p>
 
-- 🌱 I’m currently learning **Reverse engineering software**
-
-- 📝 I regularly write articles on [https://bitnoacademy.ir/author/rahman-h-z/](https://bitnoacademy.ir/author/rahman-h-z/)
+- 🌱 I’m currently learning **Web Hacking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
